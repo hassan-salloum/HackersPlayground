@@ -1,55 +1,56 @@
-# HackersPlayground 
-Welcome to **HackersPlayground**, a collection of cybersecurity resources, tools, and checklists for penetration testing and ethical hacking. This repository contains various files and scripts useful for red teaming, exploit development, and security assessments.
+# **HackersPlayground**
 
-## 📌 Contents
+Welcome to **HackersPlayground**—a curated repository of cybersecurity resources, tools, and checklists designed for penetration testing, ethical hacking, and red teaming. This collection includes scripts, documentation, and techniques essential for exploit development, security assessments, and advanced attack simulations.
 
-- **Reconnaissance & Enumeration**
-  - AD Enumeration (Forest, Domain, DC, OU, Group)
-- **Advanced Exploitation Techniques**
-  - InvokeReflectiveNcat.pdf
-  - Obfuscated_Invoke-Mimikatz.pdf
-  - triggerable_outlook_malware.pdf
-- **Security Checklists & Cheat Sheets**
-  - Linux Server Security Checklist.xlsx
-  - Pentest-CheatSheet.xlsx
-- **Pentesting & Hacking Resources**
-  - Amazing-Pentest-Toolkit.xlsx
-  - DOS Types and Tools.xlsx
-  - HOW TO BUILD YOUR OWN MAIL SERVER.pdf
-- **Exam & Study Guides**
-  - eCPPTv2_Exam_Review-2021.pdf
+## 📌 **Contents**
 
- ## ⚠️ Disclaimer
+### 🔍 **Reconnaissance & Enumeration**
+- **Active Directory Enumeration** (Forest, Domain, Domain Controller, Organizational Units, Groups)
 
-This repository is meant for **educational purposes only**. The author is not responsible for any misuse of the content. Ensure you comply with local laws and regulations before using any of the provided materials.
+### 🎯 **Advanced Exploitation Techniques**
+- **InvokeReflectiveNcat.pdf** – Reflective injection of NCAT for stealthy bind shells.
+- **Obfuscated_Invoke-Mimikatz.pdf** – Evasion techniques for Mimikatz execution.
+- **Triggerable_Outlook_Malware.pdf** – Exploiting Outlook for malware delivery.
 
-## 📢 Contributing
+### 🔐 **Security Checklists & Cheat Sheets**
+- **Linux Server Security Checklist.xlsx** – Hardening best practices.
+- **Pentest-CheatSheet.xlsx** – Quick reference for penetration testing.
 
-If you have useful resources or tools to add, feel free to fork this repository and submit a pull request!
+### ⚔️ **Pentesting & Hacking Resources**
+- **Amazing-Pentest-Toolkit.xlsx** – A collection of essential pentesting tools.
+- **DOS Types and Tools.xlsx** – Denial-of-Service (DoS) attack methodologies.
+- **HOW TO BUILD YOUR OWN MAIL SERVER.pdf** – Step-by-step guide for setting up a secure mail server on Ubuntu.
 
+### 🎓 **Exam & Study Guides**
+- **eCPPTv2_Exam_Review-2021.pdf** – Study materials for eCPPT certification.
 
-## Notes
-Concerning the "HOW TO BUILD YOUR OWN MAIL SERVER" is a rainloop-webmail: This is a simple tutorial helping you to implement your own mail server on an ubuntu machine.    
-main part: necessary elements for our mail server we need to install   
-    SMTP Server = Postfix
-    IMAP Server = Dovecot
-    WEB SERVER = Nginx
-    WEB MAIL = rainloop   
+## ⚠️ **Disclaimer**
+This repository is strictly for educational and research purposes. The author is not responsible for any misuse. Ensure compliance with local laws and ethical guidelines before utilizing any of the provided materials.
 
-Security layers
-    Setup SPF & DKIM with POSTFIX
-    Enable https on nginx
-    Redirect-http-to-https for Nginx
-    INSTALL WAF for NGINX = NGINX ModeSecurity
-
-
-InvokeReflective-Ncat: this is a simple designe to reflectively inject the NCAT in the targe memory and compromise the target via a bind shell   
-We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.   
-And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
+## 📢 **Contributing**
+Have valuable resources or tools to share? Feel free to fork this repository and submit a pull request!
 
 ---
 
-**Happy Hacking! 🔥**
+## 📝 **Additional Notes**
 
+### **Building a Secure Mail Server**
+The guide on setting up a mail server using **RainLoop Webmail** covers:
+- Required components:
+  - **SMTP Server** → Postfix
+  - **IMAP Server** → Dovecot
+  - **Web Server** → Nginx
+  - **Web Mail Interface** → RainLoop
+- Security Enhancements:
+  - SPF & DKIM configuration with Postfix
+  - Enabling HTTPS on Nginx
+  - Redirecting HTTP to HTTPS
+  - Implementing **WAF** (Web Application Firewall) using ModSecurity for Nginx
 
+### **InvokeReflective-Ncat**
+- A stealth technique for injecting **NCAT** into target memory to establish a bind shell.
+- **Evasion strategies**:
+  - Bypassing antivirus by removing comments and obfuscating function names.
+  - Evading IDS via XOR-based payload obfuscation.
 
+🚀 **Happy Hacking!** 🔥
