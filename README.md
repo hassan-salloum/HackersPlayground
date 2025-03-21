@@ -26,10 +26,10 @@ This repository is meant for **educational purposes only**. The author is not re
 ## 📢 Contributing
 
 If you have useful resources or tools to add, feel free to fork this repository and submit a pull request!
-    
-triggerable-outlook-malware
 
-rainloop-webmail: This is a simple tutorial (check attached PDF) helping you to implement your own mail server on an ubuntu machine.
+
+## Notes
+Concerning the "HOW TO BUILD YOUR OWN MAIL SERVER" is a rainloop-webmail: This is a simple tutorial helping you to implement your own mail server on an ubuntu machine.
 main part: necessary elements for our mail server we need to install
     SMTP Server = Postfix
     IMAP Server = Dovecot
@@ -37,7 +37,6 @@ main part: necessary elements for our mail server we need to install
     WEB MAIL = rainloop
 
 Security layers
-
     Setup SPF & DKIM with POSTFIX
     Enable https on nginx
     Redirect-http-to-https for Nginx
@@ -45,11 +44,12 @@ Security layers
 
 
 InvokeReflective-Ncat: this is a simple designe to reflectively inject the NCAT in the targe memory and compromise the target via a bind shell
+We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.
+And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
 
-    We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.
-    And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
+---
 
-
+**Happy Hacking! 🔥**
 
 
 
