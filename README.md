@@ -1,14 +1,26 @@
-### CheatSheet Pentesting Notes
--------------------------------------------------------------------------------------------------------------------------------
+# HackersPlayground 
+Welcome to **HackersPlayground**, a collection of cybersecurity resources, tools, and checklists for penetration testing and ethical hacking. This repository contains various files and scripts useful for red teaming, exploit development, and security assessments.
 
-Advanced Pentesting cheatsheet: 
-[Pentest-CheatSheet.xlsx](https://github.com/VraiHack/Advanced-Pentesting-cheatsheet/raw/main/Pentest-CheatSheet.xlsx)
+## 📌 Contents
 
-AD enumeration cheatsheet:
-[AD Enumeration (Forest,Domain,DC,OU,Groupe,Users,Machines,Policy,Trust).pdf](https://github.com/VraiHack/Advanced-Pentesting-cheatsheet/blob/main/AD%20Enumeration%20(Forest%2CDomain%2CDC%2COU%2CGroupe%2CUsers%2CMachines%2CPolicy%2CTrust).pdf)
+- **Reconnaissance & Enumeration**
+  - AD Enumeration (Forest, Domain, DC, OU, Group)
+- **Advanced Exploitation Techniques**
+  - InvokeReflectiveNcat.pdf
+  - Obfuscated_Invoke-Mimikatz.pdf
+  - triggerable_outlook_malware.pdf
+- **Security Checklists & Cheat Sheets**
+  - Linux Server Security Checklist.xlsx
+  - Pentest-CheatSheet.xlsx
+- **Pentesting & Hacking Resources**
+  - Amazing-Pentest-Toolkit.xlsx
+  - DOS Types and Tools.xlsx
+  - HOW TO BUILD YOUR OWN MAIL SERVER.pdf
+- **Exam & Study Guides**
+  - eCPPTv2_Exam_Review-2021.pdf
 
-AMSI evasion and clear text password to spike the mimikatz hash
-
+ 
+    
 triggerable-outlook-malware
 
 rainloop-webmail: This is a simple tutorial (check attached PDF) helping you to implement your own mail server on an ubuntu machine.
