@@ -26,6 +26,12 @@ Security layers
     INSTALL WAF for NGINX = NGINX ModeSecurity
 
 
+InvokeReflective-Ncat: this is a simple designe to reflectively inject the NCAT in the targe memory and compromise the target via a bind shell
+
+    We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.
+    And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
+
+
 
 
 
