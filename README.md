@@ -9,6 +9,8 @@ AD enumeration cheatsheet:
 
 AMSI evasion and clear text password to spike the mimikatz hash
 
+triggerable-outlook-malware
+
 
 
 
