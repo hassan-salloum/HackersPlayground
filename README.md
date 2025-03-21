@@ -19,7 +19,13 @@ Welcome to **HackersPlayground**, a collection of cybersecurity resources, tools
 - **Exam & Study Guides**
   - eCPPTv2_Exam_Review-2021.pdf
 
- 
+ ## ⚠️ Disclaimer
+
+This repository is meant for **educational purposes only**. The author is not responsible for any misuse of the content. Ensure you comply with local laws and regulations before using any of the provided materials.
+
+## 📢 Contributing
+
+If you have useful resources or tools to add, feel free to fork this repository and submit a pull request!
     
 triggerable-outlook-malware
 
