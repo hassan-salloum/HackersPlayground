@@ -29,12 +29,12 @@ If you have useful resources or tools to add, feel free to fork this repository 
 
 
 ## Notes
-Concerning the "HOW TO BUILD YOUR OWN MAIL SERVER" is a rainloop-webmail: This is a simple tutorial helping you to implement your own mail server on an ubuntu machine.
-main part: necessary elements for our mail server we need to install
+Concerning the "HOW TO BUILD YOUR OWN MAIL SERVER" is a rainloop-webmail: This is a simple tutorial helping you to implement your own mail server on an ubuntu machine.    
+main part: necessary elements for our mail server we need to install   
     SMTP Server = Postfix
     IMAP Server = Dovecot
     WEB SERVER = Nginx
-    WEB MAIL = rainloop
+    WEB MAIL = rainloop   
 
 Security layers
     Setup SPF & DKIM with POSTFIX
@@ -43,8 +43,8 @@ Security layers
     INSTALL WAF for NGINX = NGINX ModeSecurity
 
 
-InvokeReflective-Ncat: this is a simple designe to reflectively inject the NCAT in the targe memory and compromise the target via a bind shell
-We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.
+InvokeReflective-Ncat: this is a simple designe to reflectively inject the NCAT in the targe memory and compromise the target via a bind shell   
+We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.   
 And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
 
 ---
