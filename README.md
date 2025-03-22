@@ -30,5 +30,3 @@ This repository is strictly for educational and research purposes. The author is
 
 ## 🤝**Contributing**
 Have valuable resources or tools to share? Feel free to fork this repository and submit a pull request!
-
----
