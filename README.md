@@ -25,10 +25,10 @@ Welcome to **HackersPlayground**—a curated repository of cybersecurity resourc
 ### 🎓 **Exam & Study Guides**
 - **eCPPTv2_Exam_Review-2021.pdf** – Study materials for eCPPT certification.
 
-## ⚠️ **Disclaimer**
+## ⚠**Disclaimer**
 This repository is strictly for educational and research purposes. The author is not responsible for any misuse. Ensure compliance with local laws and ethical guidelines before utilizing any of the provided materials.
 
-## 📢 **Contributing**
+## **Contributing**
 Have valuable resources or tools to share? Feel free to fork this repository and submit a pull request!
 
 ---
