@@ -4,25 +4,25 @@ Welcome to **HackersPlayground**—a curated repository of cybersecurity resourc
 
 ## 📁**Contents**
 
-### 🔍 **Reconnaissance & Enumeration**
+### 🔍**Reconnaissance & Enumeration**
 - **Active Directory Enumeration** (Forest, Domain, Domain Controller, Organizational Units, Groups)
 
-### 🎯 **Advanced Exploitation Techniques**
+### 🎯**Advanced Exploitation Techniques**
 - **InvokeReflectiveNcat.pdf** – Reflective injection of NCAT for stealthy bind shells.
 - **Obfuscated_Invoke-Mimikatz.pdf** – Evasion techniques for Mimikatz execution.
 - **Triggerable_Outlook_Malware.pdf** – Exploiting Outlook for malware delivery.
 - **PENTESTER Write-up-Gatekeeper.pdf** – Learn Buffer Overflow.
 
-### 🔐 **Security Checklists & Cheat Sheets**
+### 🔐**Security Checklists & Cheat Sheets**
 - **Linux Server Security Checklist.xlsx** – Hardening best practices.
 - **Pentest-CheatSheet.xlsx** – Quick reference for penetration testing.
 
-### ⚔️ **Pentesting & Hacking Resources**
+### ⚔️**Pentesting & Hacking Resources**
 - **Amazing-Pentest-Toolkit.xlsx** – A collection of essential pentesting tools.
 - **DOS Types and Tools.xlsx** – Denial-of-Service (DoS) attack methodologies.
 - **HOW TO BUILD YOUR OWN MAIL SERVER.pdf** – Step-by-step guide for setting up a secure mail server on Ubuntu.
 
-### 🎓 **Exam & Study Guides**
+### 🎓**Exam & Study Guides**
 - **eCPPTv2_Exam_Review-2021.pdf** – Study materials for eCPPT certification.
 
 ## ⚠**Disclaimer**
@@ -33,7 +33,7 @@ Have valuable resources or tools to share? Feel free to fork this repository and
 
 ---
 
-## 📝 **Additional Notes**
+## 📝**Additional Notes**
 
 ### **Building a Secure Mail Server**
 The guide on setting up a mail server using **RainLoop Webmail** covers:
