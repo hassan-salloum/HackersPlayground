@@ -32,26 +32,3 @@ This repository is strictly for educational and research purposes. The author is
 Have valuable resources or tools to share? Feel free to fork this repository and submit a pull request!
 
 ---
-
-## 📝**Additional Notes**
-
-### **Building a Secure Mail Server**
-The guide on setting up a mail server using **RainLoop Webmail** covers:
-- Required components:
-  - **SMTP Server** → Postfix
-  - **IMAP Server** → Dovecot
-  - **Web Server** → Nginx
-  - **Web Mail Interface** → RainLoop
-- Security Enhancements:
-  - SPF & DKIM configuration with Postfix
-  - Enabling HTTPS on Nginx
-  - Redirecting HTTP to HTTPS
-  - Implementing **WAF** (Web Application Firewall) using ModSecurity for Nginx
-
-### **InvokeReflective-Ncat**
-- A stealth technique for injecting **NCAT** into target memory to establish a bind shell.
-- **Evasion strategies**:
-  - Bypassing antivirus by removing comments and obfuscating function names.
-  - Evading IDS via XOR-based payload obfuscation.
-
-🚀 **Happy Hacking!** 🔥
