@@ -11,7 +11,7 @@ Welcome to **HackersPlayground**—a curated repository of cybersecurity resourc
 - **InvokeReflectiveNcat.pdf** – Reflective injection of NCAT for stealthy bind shells.
 - **Obfuscated_Invoke-Mimikatz.pdf** – Evasion techniques for Mimikatz execution.
 - **Triggerable_Outlook_Malware.pdf** – Exploiting Outlook for malware delivery.
-- - **PENTESTER Write-up-Gatekeeper.pdf** – Learn Buffer Overflow.
+- **PENTESTER Write-up-Gatekeeper.pdf** – Learn Buffer Overflow.
 
 ### 🔐 **Security Checklists & Cheat Sheets**
 - **Linux Server Security Checklist.xlsx** – Hardening best practices.
