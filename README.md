@@ -1,8 +1,8 @@
-# **HackersPlayground**
+# 🏴‍☠️**HackersPlayground**
 
 Welcome to **HackersPlayground**—a curated repository of cybersecurity resources, tools, and checklists designed for penetration testing, ethical hacking, and red teaming. This collection includes scripts, documentation, and techniques essential for exploit development, security assessments, and advanced attack simulations.
 
-## **Contents**
+## 📁**Contents**
 
 ### 🔍 **Reconnaissance & Enumeration**
 - **Active Directory Enumeration** (Forest, Domain, Domain Controller, Organizational Units, Groups)
@@ -28,7 +28,7 @@ Welcome to **HackersPlayground**—a curated repository of cybersecurity resourc
 ## ⚠**Disclaimer**
 This repository is strictly for educational and research purposes. The author is not responsible for any misuse. Ensure compliance with local laws and ethical guidelines before utilizing any of the provided materials.
 
-## **Contributing**
+## 🤝**Contributing**
 Have valuable resources or tools to share? Feel free to fork this repository and submit a pull request!
 
 ---
